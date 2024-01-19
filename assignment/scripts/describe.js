@@ -27,9 +27,9 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // 
-// 
-// 
-//
+// we have a variable set to Dane
+// if the variable were Mary, it would say "Hi, Mary!"
+// and for all other inputs it will say "How do you do?"
 
 //CODE
 /*
@@ -45,8 +45,8 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// because the variable code equals 123, the variable secret equals "super", which then multiplies the code by 2 making it 246.
+// because 246 isnt greater than 250 the value of secret stays "super"
 // 
 //
 
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
+// because the first two conditions are not met, the output would be "Welcome to Prime!"
 // 
 // 
-// 
-//
+//if none of the other conditions are true the console will output "How about the weather?"
 
 //CODE
 /*
@@ -133,6 +133,8 @@ if (number >= 2) {
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
+
+// FIX - colorTwo should also = 'purple'
 
 if (mix === true) {
   colorOne = 'purple';
